@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #95B8D1;
+}
+
+.last-message{
+    font-size: 27px;
+    color: #95B8D3;
+    font-weight: 600
+}
+
+.feedback{
+    font-size: 24px;
+    background-color: #F8D7DA;
+    font-weight: 600;
+    color: #9D1C24
+}
+
+.feedback.delete{
+    display: none;
+}
